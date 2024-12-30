@@ -1,0 +1,35 @@
+1. ADD NEW SCENES
+	- HARBOR
+	- FOREST
+	- INSIDE HOUSES
+	- CAVE
+	- ANIMAL FARM
+
+2. DIAGONAL MOVEMENT ?
+
+3. ADD NPC
+	- GUITAR PLAYER (ACUSTIC)
+		- CHANGE SONG TALKING TO HIM
+	- FISHERMAN
+	- TWO IN LOVE
+	- EMO
+	- RAPER
+	- OLD MAN
+	- HERMIT
+	- HAPPY FAMILY
+
+4. ADD CLOUDS SHADOWS IN THE GROUND
+
+5. FISHING MECHANIC 
+
+6. NIGHT ???
+
+7. SPEECH DIALOGUE MECHANIC --- FIX SPEECH SOUND
+
+8. SIT MECHANIC
+
+9. SOUND
+	- Walking sound
+	- Ambient sound (birds, wind, water ...)
+	- Guitar sound
+	- Sound louder when closer
